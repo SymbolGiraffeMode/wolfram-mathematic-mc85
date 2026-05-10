@@ -1,4 +1,4 @@
-
+Enhance Wolfram Mathematica for macOS with new Wolfram Mathematica for macOS Plugin | 3D-plotting + symbolic-computation, the #1 plugin. Includes 3D-plotting and
 
 
 
